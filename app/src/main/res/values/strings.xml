@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Bottom Sheet</string>
+    <string name="share_now">Share Now</string>
+    <string name="women_s_synthetic_lines_dress">Women\'s Synthetic Lines Dress</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="_734">#734</string>
+    <string name="add_to_favourite">Add To Favourite</string>
+    <string name="share_product_via">Share Product Via....</string>
+    <string name="share">Share</string>
+    <string name="men_s_fashion_suit">Men\'s Fashion Suit</string>
+    <string name="show_bottom_sheet_dialog">Show Bottom Sheet Dialog</string>
 </resources>
